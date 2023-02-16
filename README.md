@@ -27,10 +27,12 @@ This is a python login system with the Database(MySql). In this project I have u
 ![image](https://user-images.githubusercontent.com/90970004/219345362-d2129b47-ea9e-4dd3-af8f-923a17593101.png)
 
 ---
+<pre>
 # This project is done by
 Name :- Vishal Singh 
 College Name :- Vishwakarma Institute of Technology
 Email :- vishal.singh20@vit.edu
 mobile no :- 8082983769
+</pre>
 ---
 ## If any doubt feel free to contact me
